@@ -2,6 +2,8 @@
 
 This tool helps you retrieve the availability data of Zara products and get notified through email.
 
+TODO: Encrypt the data
+
 ## How to Get Product URLs
 
 1. Open the Zara product page in your browser.
